@@ -158,8 +158,10 @@ namespace CatalogOfVegetablesFruitsHerbs
                 Console.WriteLine();
             }
             else
+            {
                 Console.WriteLine();
                 Console.WriteLine(message._NO_RESULTS);
+            }
 
             Console.WriteLine();
         }
